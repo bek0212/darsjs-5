@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.block{
+    text-align: center;
+    color: green;
+    font-family: cursive;
+}
+ .inp2 , .btn, .master  {
+    margin-top: 20px;
+}
+.master{
+    text-align: center;
+}
+.color{
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: green;
+}
